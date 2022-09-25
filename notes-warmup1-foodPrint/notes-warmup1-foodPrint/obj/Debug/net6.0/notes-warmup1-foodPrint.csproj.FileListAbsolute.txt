@@ -1,0 +1,15 @@
+/Users/nihalkarim/Desktop/rit /fall22/igme-201/notes-warmup1-foodPrint/notes-warmup1-foodPrint/bin/Debug/net6.0/notes-warmup1-foodPrint
+/Users/nihalkarim/Desktop/rit /fall22/igme-201/notes-warmup1-foodPrint/notes-warmup1-foodPrint/bin/Debug/net6.0/notes-warmup1-foodPrint.deps.json
+/Users/nihalkarim/Desktop/rit /fall22/igme-201/notes-warmup1-foodPrint/notes-warmup1-foodPrint/bin/Debug/net6.0/notes-warmup1-foodPrint.runtimeconfig.json
+/Users/nihalkarim/Desktop/rit /fall22/igme-201/notes-warmup1-foodPrint/notes-warmup1-foodPrint/bin/Debug/net6.0/notes-warmup1-foodPrint.dll
+/Users/nihalkarim/Desktop/rit /fall22/igme-201/notes-warmup1-foodPrint/notes-warmup1-foodPrint/bin/Debug/net6.0/notes-warmup1-foodPrint.pdb
+/Users/nihalkarim/Desktop/rit /fall22/igme-201/notes-warmup1-foodPrint/notes-warmup1-foodPrint/obj/Debug/net6.0/notes-warmup1-foodPrint.csproj.AssemblyReference.cache
+/Users/nihalkarim/Desktop/rit /fall22/igme-201/notes-warmup1-foodPrint/notes-warmup1-foodPrint/obj/Debug/net6.0/notes-warmup1-foodPrint.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nihalkarim/Desktop/rit /fall22/igme-201/notes-warmup1-foodPrint/notes-warmup1-foodPrint/obj/Debug/net6.0/notes-warmup1-foodPrint.AssemblyInfoInputs.cache
+/Users/nihalkarim/Desktop/rit /fall22/igme-201/notes-warmup1-foodPrint/notes-warmup1-foodPrint/obj/Debug/net6.0/notes-warmup1-foodPrint.AssemblyInfo.cs
+/Users/nihalkarim/Desktop/rit /fall22/igme-201/notes-warmup1-foodPrint/notes-warmup1-foodPrint/obj/Debug/net6.0/notes-warmup1-foodPrint.csproj.CoreCompileInputs.cache
+/Users/nihalkarim/Desktop/rit /fall22/igme-201/notes-warmup1-foodPrint/notes-warmup1-foodPrint/obj/Debug/net6.0/notes-warmup1-foodPrint.dll
+/Users/nihalkarim/Desktop/rit /fall22/igme-201/notes-warmup1-foodPrint/notes-warmup1-foodPrint/obj/Debug/net6.0/refint/notes-warmup1-foodPrint.dll
+/Users/nihalkarim/Desktop/rit /fall22/igme-201/notes-warmup1-foodPrint/notes-warmup1-foodPrint/obj/Debug/net6.0/notes-warmup1-foodPrint.pdb
+/Users/nihalkarim/Desktop/rit /fall22/igme-201/notes-warmup1-foodPrint/notes-warmup1-foodPrint/obj/Debug/net6.0/notes-warmup1-foodPrint.genruntimeconfig.cache
+/Users/nihalkarim/Desktop/rit /fall22/igme-201/notes-warmup1-foodPrint/notes-warmup1-foodPrint/obj/Debug/net6.0/ref/notes-warmup1-foodPrint.dll

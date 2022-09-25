@@ -1,0 +1,15 @@
+/Users/nihalkarim/Desktop/rit /fall22/igme-201/Karim_Mandelbrot/Karim_Mandelbrot/bin/Debug/net6.0/Karim_Mandelbrot
+/Users/nihalkarim/Desktop/rit /fall22/igme-201/Karim_Mandelbrot/Karim_Mandelbrot/bin/Debug/net6.0/Karim_Mandelbrot.deps.json
+/Users/nihalkarim/Desktop/rit /fall22/igme-201/Karim_Mandelbrot/Karim_Mandelbrot/bin/Debug/net6.0/Karim_Mandelbrot.runtimeconfig.json
+/Users/nihalkarim/Desktop/rit /fall22/igme-201/Karim_Mandelbrot/Karim_Mandelbrot/bin/Debug/net6.0/Karim_Mandelbrot.dll
+/Users/nihalkarim/Desktop/rit /fall22/igme-201/Karim_Mandelbrot/Karim_Mandelbrot/bin/Debug/net6.0/Karim_Mandelbrot.pdb
+/Users/nihalkarim/Desktop/rit /fall22/igme-201/Karim_Mandelbrot/Karim_Mandelbrot/obj/Debug/net6.0/Karim_Mandelbrot.csproj.AssemblyReference.cache
+/Users/nihalkarim/Desktop/rit /fall22/igme-201/Karim_Mandelbrot/Karim_Mandelbrot/obj/Debug/net6.0/Karim_Mandelbrot.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nihalkarim/Desktop/rit /fall22/igme-201/Karim_Mandelbrot/Karim_Mandelbrot/obj/Debug/net6.0/Karim_Mandelbrot.AssemblyInfoInputs.cache
+/Users/nihalkarim/Desktop/rit /fall22/igme-201/Karim_Mandelbrot/Karim_Mandelbrot/obj/Debug/net6.0/Karim_Mandelbrot.AssemblyInfo.cs
+/Users/nihalkarim/Desktop/rit /fall22/igme-201/Karim_Mandelbrot/Karim_Mandelbrot/obj/Debug/net6.0/Karim_Mandelbrot.csproj.CoreCompileInputs.cache
+/Users/nihalkarim/Desktop/rit /fall22/igme-201/Karim_Mandelbrot/Karim_Mandelbrot/obj/Debug/net6.0/Karim_Mandelbrot.dll
+/Users/nihalkarim/Desktop/rit /fall22/igme-201/Karim_Mandelbrot/Karim_Mandelbrot/obj/Debug/net6.0/refint/Karim_Mandelbrot.dll
+/Users/nihalkarim/Desktop/rit /fall22/igme-201/Karim_Mandelbrot/Karim_Mandelbrot/obj/Debug/net6.0/Karim_Mandelbrot.pdb
+/Users/nihalkarim/Desktop/rit /fall22/igme-201/Karim_Mandelbrot/Karim_Mandelbrot/obj/Debug/net6.0/Karim_Mandelbrot.genruntimeconfig.cache
+/Users/nihalkarim/Desktop/rit /fall22/igme-201/Karim_Mandelbrot/Karim_Mandelbrot/obj/Debug/net6.0/ref/Karim_Mandelbrot.dll

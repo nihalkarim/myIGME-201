@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{F47D1ADF-785A-4748-8C0A-174DF79D6A16}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.DataTypeConversion PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DataTypeConversion/Program.cs">
+    <Files>
+      <File FileName="DataTypeConversion/Program.cs" Line="13" Column="19" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DataTypeConversion" expanded="True" selected="True">
+            <Node name="DataTypeConversion" expanded="True" selected="True">
+              <Node name="ConnectedServicesFolder" selected="True" />
+              <Node name="Dependencies" selected="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

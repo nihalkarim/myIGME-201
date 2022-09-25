@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{D7D1C09F-AB96-4130-80E0-F2F4C62267B5}|Default">
+  <MonoDevelop.Ide.ItemProperties.FavoriteColorAndNumber PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FavoriteColorAndNumber/Program.cs">
+    <Files>
+      <File FileName="FavoriteColorAndNumber/Program.cs" Line="87" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FavoriteColorAndNumber" expanded="True">
+            <Node name="FavoriteColorAndNumber" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

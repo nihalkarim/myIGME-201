@@ -1,0 +1,15 @@
+/Users/nihalkarim/Desktop/rit /fall22/igme-201/Karim_NumberSortingAlgorithm/Karim_NumberSortingAlgorithm/bin/Debug/net6.0/Karim_NumberSortingAlgorithm
+/Users/nihalkarim/Desktop/rit /fall22/igme-201/Karim_NumberSortingAlgorithm/Karim_NumberSortingAlgorithm/bin/Debug/net6.0/Karim_NumberSortingAlgorithm.deps.json
+/Users/nihalkarim/Desktop/rit /fall22/igme-201/Karim_NumberSortingAlgorithm/Karim_NumberSortingAlgorithm/bin/Debug/net6.0/Karim_NumberSortingAlgorithm.runtimeconfig.json
+/Users/nihalkarim/Desktop/rit /fall22/igme-201/Karim_NumberSortingAlgorithm/Karim_NumberSortingAlgorithm/bin/Debug/net6.0/Karim_NumberSortingAlgorithm.dll
+/Users/nihalkarim/Desktop/rit /fall22/igme-201/Karim_NumberSortingAlgorithm/Karim_NumberSortingAlgorithm/bin/Debug/net6.0/Karim_NumberSortingAlgorithm.pdb
+/Users/nihalkarim/Desktop/rit /fall22/igme-201/Karim_NumberSortingAlgorithm/Karim_NumberSortingAlgorithm/obj/Debug/net6.0/Karim_NumberSortingAlgorithm.csproj.AssemblyReference.cache
+/Users/nihalkarim/Desktop/rit /fall22/igme-201/Karim_NumberSortingAlgorithm/Karim_NumberSortingAlgorithm/obj/Debug/net6.0/Karim_NumberSortingAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nihalkarim/Desktop/rit /fall22/igme-201/Karim_NumberSortingAlgorithm/Karim_NumberSortingAlgorithm/obj/Debug/net6.0/Karim_NumberSortingAlgorithm.AssemblyInfoInputs.cache
+/Users/nihalkarim/Desktop/rit /fall22/igme-201/Karim_NumberSortingAlgorithm/Karim_NumberSortingAlgorithm/obj/Debug/net6.0/Karim_NumberSortingAlgorithm.AssemblyInfo.cs
+/Users/nihalkarim/Desktop/rit /fall22/igme-201/Karim_NumberSortingAlgorithm/Karim_NumberSortingAlgorithm/obj/Debug/net6.0/Karim_NumberSortingAlgorithm.csproj.CoreCompileInputs.cache
+/Users/nihalkarim/Desktop/rit /fall22/igme-201/Karim_NumberSortingAlgorithm/Karim_NumberSortingAlgorithm/obj/Debug/net6.0/Karim_NumberSortingAlgorithm.dll
+/Users/nihalkarim/Desktop/rit /fall22/igme-201/Karim_NumberSortingAlgorithm/Karim_NumberSortingAlgorithm/obj/Debug/net6.0/refint/Karim_NumberSortingAlgorithm.dll
+/Users/nihalkarim/Desktop/rit /fall22/igme-201/Karim_NumberSortingAlgorithm/Karim_NumberSortingAlgorithm/obj/Debug/net6.0/Karim_NumberSortingAlgorithm.pdb
+/Users/nihalkarim/Desktop/rit /fall22/igme-201/Karim_NumberSortingAlgorithm/Karim_NumberSortingAlgorithm/obj/Debug/net6.0/Karim_NumberSortingAlgorithm.genruntimeconfig.cache
+/Users/nihalkarim/Desktop/rit /fall22/igme-201/Karim_NumberSortingAlgorithm/Karim_NumberSortingAlgorithm/obj/Debug/net6.0/ref/Karim_NumberSortingAlgorithm.dll

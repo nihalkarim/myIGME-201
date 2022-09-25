@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/nihalkarim/Desktop/rit /fall22/igme-201/Karim_Mandelbrot/Karim_Mandelbrot/Karim_Mandelbrot.csproj": {}
+  },
+  "projects": {
+    "/Users/nihalkarim/Desktop/rit /fall22/igme-201/Karim_Mandelbrot/Karim_Mandelbrot/Karim_Mandelbrot.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/nihalkarim/Desktop/rit /fall22/igme-201/Karim_Mandelbrot/Karim_Mandelbrot/Karim_Mandelbrot.csproj",
+        "projectName": "Karim_Mandelbrot",
+        "projectPath": "/Users/nihalkarim/Desktop/rit /fall22/igme-201/Karim_Mandelbrot/Karim_Mandelbrot/Karim_Mandelbrot.csproj",
+        "packagesPath": "/Users/nihalkarim/.nuget/packages/",
+        "outputPath": "/Users/nihalkarim/Desktop/rit /fall22/igme-201/Karim_Mandelbrot/Karim_Mandelbrot/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/nihalkarim/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

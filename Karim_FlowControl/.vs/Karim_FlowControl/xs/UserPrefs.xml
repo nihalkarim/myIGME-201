@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{880BD421-A682-44C2-9FB0-7F85BB2CE388}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Karim__FlowControl PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Karim_FlowControl/Program.cs">
+    <Files>
+      <File FileName="Karim_FlowControl/Program.cs" Line="12" Column="1" />
+      <File FileName="../Karim_Mandelbrot/Karim_Mandelbrot/Program.cs" Line="65" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Karim_FlowControl" expanded="True">
+            <Node name="Karim_FlowControl" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

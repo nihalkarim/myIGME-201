@@ -1,0 +1,15 @@
+/Users/nihalkarim/Desktop/rit /fall22/igme-201/Karim_SquashTheBugs/Karim_SquashTheBugs/obj/Debug/net6.0/Karim_SquashTheBugs.csproj.AssemblyReference.cache
+/Users/nihalkarim/Desktop/rit /fall22/igme-201/Karim_SquashTheBugs/Karim_SquashTheBugs/obj/Debug/net6.0/Karim_SquashTheBugs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nihalkarim/Desktop/rit /fall22/igme-201/Karim_SquashTheBugs/Karim_SquashTheBugs/obj/Debug/net6.0/Karim_SquashTheBugs.AssemblyInfoInputs.cache
+/Users/nihalkarim/Desktop/rit /fall22/igme-201/Karim_SquashTheBugs/Karim_SquashTheBugs/obj/Debug/net6.0/Karim_SquashTheBugs.AssemblyInfo.cs
+/Users/nihalkarim/Desktop/rit /fall22/igme-201/Karim_SquashTheBugs/Karim_SquashTheBugs/obj/Debug/net6.0/Karim_SquashTheBugs.csproj.CoreCompileInputs.cache
+/Users/nihalkarim/Desktop/rit /fall22/igme-201/Karim_SquashTheBugs/Karim_SquashTheBugs/bin/Debug/net6.0/Karim_SquashTheBugs
+/Users/nihalkarim/Desktop/rit /fall22/igme-201/Karim_SquashTheBugs/Karim_SquashTheBugs/bin/Debug/net6.0/Karim_SquashTheBugs.deps.json
+/Users/nihalkarim/Desktop/rit /fall22/igme-201/Karim_SquashTheBugs/Karim_SquashTheBugs/bin/Debug/net6.0/Karim_SquashTheBugs.runtimeconfig.json
+/Users/nihalkarim/Desktop/rit /fall22/igme-201/Karim_SquashTheBugs/Karim_SquashTheBugs/bin/Debug/net6.0/Karim_SquashTheBugs.dll
+/Users/nihalkarim/Desktop/rit /fall22/igme-201/Karim_SquashTheBugs/Karim_SquashTheBugs/bin/Debug/net6.0/Karim_SquashTheBugs.pdb
+/Users/nihalkarim/Desktop/rit /fall22/igme-201/Karim_SquashTheBugs/Karim_SquashTheBugs/obj/Debug/net6.0/Karim_SquashTheBugs.dll
+/Users/nihalkarim/Desktop/rit /fall22/igme-201/Karim_SquashTheBugs/Karim_SquashTheBugs/obj/Debug/net6.0/refint/Karim_SquashTheBugs.dll
+/Users/nihalkarim/Desktop/rit /fall22/igme-201/Karim_SquashTheBugs/Karim_SquashTheBugs/obj/Debug/net6.0/Karim_SquashTheBugs.pdb
+/Users/nihalkarim/Desktop/rit /fall22/igme-201/Karim_SquashTheBugs/Karim_SquashTheBugs/obj/Debug/net6.0/Karim_SquashTheBugs.genruntimeconfig.cache
+/Users/nihalkarim/Desktop/rit /fall22/igme-201/Karim_SquashTheBugs/Karim_SquashTheBugs/obj/Debug/net6.0/ref/Karim_SquashTheBugs.dll

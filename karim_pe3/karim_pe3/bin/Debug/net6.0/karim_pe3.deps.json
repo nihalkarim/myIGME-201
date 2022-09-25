@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "karim_pe3/1.0.0": {
+        "runtime": {
+          "karim_pe3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "karim_pe3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

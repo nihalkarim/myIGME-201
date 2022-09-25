@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1703.2
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Karim_FlowControl", "Karim_FlowControl\Karim_FlowControl.csproj", "{880BD421-A682-44C2-9FB0-7F85BB2CE388}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{880BD421-A682-44C2-9FB0-7F85BB2CE388}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{880BD421-A682-44C2-9FB0-7F85BB2CE388}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{880BD421-A682-44C2-9FB0-7F85BB2CE388}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{880BD421-A682-44C2-9FB0-7F85BB2CE388}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5040BE7-A62E-4179-B880-C1B329A5401D}
+	EndGlobalSection
+EndGlobal
