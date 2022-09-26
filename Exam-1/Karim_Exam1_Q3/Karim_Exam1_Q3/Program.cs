@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 namespace HelloWorld
 {
-    /* Author:
-     * Name:
-     * Purpose:
-     * Restrictions:
+    /* Author: Nihal Karim
+     * Name: Program
+     * Purpose: recreate Math.Round(double, int)
+     * Restrictions: not working :(
      */
     class Program
     {

@@ -12,7 +12,7 @@ namespace HelloWorld
     /* Author: Nihal Karim
      * Name: Program
      * Purpose:
-     * Restrictions:
+     * Restrictions: timer does not work
      */
     static internal class Program
     {
@@ -31,14 +31,16 @@ namespace HelloWorld
             string[] answers = new string[] { "black", "42", "What do you mean? African or European swallow?" };
             string userAnswer = "";
             string playAgain = "";
-            bool stop = false;
-            bool isValid = false;
+            bool stop;
+            bool isValid;
 
             // timer
             System.Timers.Timer timeOut = new System.Timers.Timer(5000);
 
 
         start:
+            
+            isValid = false;
             // prompt user for question
             while (!isValid)
             {
@@ -58,6 +60,7 @@ namespace HelloWorld
                 }
             }
 
+            stop = false;
             while (!stop)
             {
                 question = questionNum;
@@ -125,6 +128,10 @@ namespace HelloWorld
                 {
                     stop = true;
                     goto start;
+                }
+                else
+                {
+                    break;
                 }
             }
 
