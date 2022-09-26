@@ -9,8 +9,8 @@ namespace HelloWorld
 {
     /* Author: Nihal Karim
      * Name: Program
-     * Purpose:
-     * Restrictions:
+     * Purpose: recreate #12 using structs
+     * Restrictions: scope issue with the GiveRaise function. Salary won't update
      */
     class Program
     {
@@ -32,7 +32,7 @@ namespace HelloWorld
 
             // prompt the user's name
             Console.Write("What's your name? ");
-            employeeStruct.sName = "nihal";//Console.ReadLine();
+            employeeStruct.sName = Console.ReadLine();
 
             // format name so it starts with a capital letter
             employeeStruct.sName = char.ToUpper(employeeStruct.sName[0]) + employeeStruct.sName.Substring(1);
@@ -56,7 +56,6 @@ namespace HelloWorld
             if (user.sName.ToLower() == "nihal")
             {
                 user.dSalary += 19999.99;
-                Console.WriteLine(user.dSalary);
                 return true;
             }
             else

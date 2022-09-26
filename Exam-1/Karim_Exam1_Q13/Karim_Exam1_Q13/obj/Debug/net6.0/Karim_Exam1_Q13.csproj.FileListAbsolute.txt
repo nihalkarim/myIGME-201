@@ -13,3 +13,18 @@
 /Users/nihalkarim/Desktop/rit /fall22/igme-201/Exam-1/Karim_Exam1_Q13/Karim_Exam1_Q13/obj/Debug/net6.0/Karim_Exam1_Q13.pdb
 /Users/nihalkarim/Desktop/rit /fall22/igme-201/Exam-1/Karim_Exam1_Q13/Karim_Exam1_Q13/obj/Debug/net6.0/Karim_Exam1_Q13.genruntimeconfig.cache
 /Users/nihalkarim/Desktop/rit /fall22/igme-201/Exam-1/Karim_Exam1_Q13/Karim_Exam1_Q13/obj/Debug/net6.0/ref/Karim_Exam1_Q13.dll
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/Exam-1/Karim_Exam1_Q13/Karim_Exam1_Q13/bin/Debug/net6.0/Karim_Exam1_Q13
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/Exam-1/Karim_Exam1_Q13/Karim_Exam1_Q13/bin/Debug/net6.0/Karim_Exam1_Q13.deps.json
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/Exam-1/Karim_Exam1_Q13/Karim_Exam1_Q13/bin/Debug/net6.0/Karim_Exam1_Q13.runtimeconfig.json
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/Exam-1/Karim_Exam1_Q13/Karim_Exam1_Q13/bin/Debug/net6.0/Karim_Exam1_Q13.dll
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/Exam-1/Karim_Exam1_Q13/Karim_Exam1_Q13/bin/Debug/net6.0/Karim_Exam1_Q13.pdb
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/Exam-1/Karim_Exam1_Q13/Karim_Exam1_Q13/obj/Debug/net6.0/Karim_Exam1_Q13.csproj.AssemblyReference.cache
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/Exam-1/Karim_Exam1_Q13/Karim_Exam1_Q13/obj/Debug/net6.0/Karim_Exam1_Q13.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/Exam-1/Karim_Exam1_Q13/Karim_Exam1_Q13/obj/Debug/net6.0/Karim_Exam1_Q13.AssemblyInfoInputs.cache
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/Exam-1/Karim_Exam1_Q13/Karim_Exam1_Q13/obj/Debug/net6.0/Karim_Exam1_Q13.AssemblyInfo.cs
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/Exam-1/Karim_Exam1_Q13/Karim_Exam1_Q13/obj/Debug/net6.0/Karim_Exam1_Q13.csproj.CoreCompileInputs.cache
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/Exam-1/Karim_Exam1_Q13/Karim_Exam1_Q13/obj/Debug/net6.0/Karim_Exam1_Q13.dll
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/Exam-1/Karim_Exam1_Q13/Karim_Exam1_Q13/obj/Debug/net6.0/refint/Karim_Exam1_Q13.dll
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/Exam-1/Karim_Exam1_Q13/Karim_Exam1_Q13/obj/Debug/net6.0/Karim_Exam1_Q13.pdb
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/Exam-1/Karim_Exam1_Q13/Karim_Exam1_Q13/obj/Debug/net6.0/Karim_Exam1_Q13.genruntimeconfig.cache
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/Exam-1/Karim_Exam1_Q13/Karim_Exam1_Q13/obj/Debug/net6.0/ref/Karim_Exam1_Q13.dll

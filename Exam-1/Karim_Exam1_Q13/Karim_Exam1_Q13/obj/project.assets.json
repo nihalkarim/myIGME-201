@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/nihalkarim/Desktop/rit /fall22/igme-201/Exam-1/Karim_Exam1_Q13/Karim_Exam1_Q13/Karim_Exam1_Q13.csproj",
+      "projectUniqueName": "/Users/nihalkarim/Desktop/rit/fall22/igme-201/Exam-1/Karim_Exam1_Q13/Karim_Exam1_Q13/Karim_Exam1_Q13.csproj",
       "projectName": "Karim_Exam1_Q13",
-      "projectPath": "/Users/nihalkarim/Desktop/rit /fall22/igme-201/Exam-1/Karim_Exam1_Q13/Karim_Exam1_Q13/Karim_Exam1_Q13.csproj",
+      "projectPath": "/Users/nihalkarim/Desktop/rit/fall22/igme-201/Exam-1/Karim_Exam1_Q13/Karim_Exam1_Q13/Karim_Exam1_Q13.csproj",
       "packagesPath": "/Users/nihalkarim/.nuget/packages/",
-      "outputPath": "/Users/nihalkarim/Desktop/rit /fall22/igme-201/Exam-1/Karim_Exam1_Q13/Karim_Exam1_Q13/obj/",
+      "outputPath": "/Users/nihalkarim/Desktop/rit/fall22/igme-201/Exam-1/Karim_Exam1_Q13/Karim_Exam1_Q13/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/nihalkarim/.nuget/NuGet/NuGet.Config"
