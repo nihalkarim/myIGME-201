@@ -1,0 +1,15 @@
+/Users/nihalkarim/Desktop/rit /fall22/igme-201/Exam-1/Karim_Exam1_Q5/Karim_Exam1_Q5/bin/Debug/net6.0/Karim_Exam1_Q5
+/Users/nihalkarim/Desktop/rit /fall22/igme-201/Exam-1/Karim_Exam1_Q5/Karim_Exam1_Q5/bin/Debug/net6.0/Karim_Exam1_Q5.deps.json
+/Users/nihalkarim/Desktop/rit /fall22/igme-201/Exam-1/Karim_Exam1_Q5/Karim_Exam1_Q5/bin/Debug/net6.0/Karim_Exam1_Q5.runtimeconfig.json
+/Users/nihalkarim/Desktop/rit /fall22/igme-201/Exam-1/Karim_Exam1_Q5/Karim_Exam1_Q5/bin/Debug/net6.0/Karim_Exam1_Q5.dll
+/Users/nihalkarim/Desktop/rit /fall22/igme-201/Exam-1/Karim_Exam1_Q5/Karim_Exam1_Q5/bin/Debug/net6.0/Karim_Exam1_Q5.pdb
+/Users/nihalkarim/Desktop/rit /fall22/igme-201/Exam-1/Karim_Exam1_Q5/Karim_Exam1_Q5/obj/Debug/net6.0/Karim_Exam1_Q5.csproj.AssemblyReference.cache
+/Users/nihalkarim/Desktop/rit /fall22/igme-201/Exam-1/Karim_Exam1_Q5/Karim_Exam1_Q5/obj/Debug/net6.0/Karim_Exam1_Q5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nihalkarim/Desktop/rit /fall22/igme-201/Exam-1/Karim_Exam1_Q5/Karim_Exam1_Q5/obj/Debug/net6.0/Karim_Exam1_Q5.AssemblyInfoInputs.cache
+/Users/nihalkarim/Desktop/rit /fall22/igme-201/Exam-1/Karim_Exam1_Q5/Karim_Exam1_Q5/obj/Debug/net6.0/Karim_Exam1_Q5.AssemblyInfo.cs
+/Users/nihalkarim/Desktop/rit /fall22/igme-201/Exam-1/Karim_Exam1_Q5/Karim_Exam1_Q5/obj/Debug/net6.0/Karim_Exam1_Q5.csproj.CoreCompileInputs.cache
+/Users/nihalkarim/Desktop/rit /fall22/igme-201/Exam-1/Karim_Exam1_Q5/Karim_Exam1_Q5/obj/Debug/net6.0/Karim_Exam1_Q5.dll
+/Users/nihalkarim/Desktop/rit /fall22/igme-201/Exam-1/Karim_Exam1_Q5/Karim_Exam1_Q5/obj/Debug/net6.0/refint/Karim_Exam1_Q5.dll
+/Users/nihalkarim/Desktop/rit /fall22/igme-201/Exam-1/Karim_Exam1_Q5/Karim_Exam1_Q5/obj/Debug/net6.0/Karim_Exam1_Q5.pdb
+/Users/nihalkarim/Desktop/rit /fall22/igme-201/Exam-1/Karim_Exam1_Q5/Karim_Exam1_Q5/obj/Debug/net6.0/Karim_Exam1_Q5.genruntimeconfig.cache
+/Users/nihalkarim/Desktop/rit /fall22/igme-201/Exam-1/Karim_Exam1_Q5/Karim_Exam1_Q5/obj/Debug/net6.0/ref/Karim_Exam1_Q5.dll

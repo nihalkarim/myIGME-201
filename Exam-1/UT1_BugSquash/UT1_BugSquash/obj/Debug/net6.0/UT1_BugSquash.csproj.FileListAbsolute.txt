@@ -1,0 +1,15 @@
+/Users/nihalkarim/Desktop/rit /fall22/igme-201/Exam-1/UT1_BugSquash/UT1_BugSquash/obj/Debug/net6.0/UT1_BugSquash.csproj.AssemblyReference.cache
+/Users/nihalkarim/Desktop/rit /fall22/igme-201/Exam-1/UT1_BugSquash/UT1_BugSquash/obj/Debug/net6.0/UT1_BugSquash.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nihalkarim/Desktop/rit /fall22/igme-201/Exam-1/UT1_BugSquash/UT1_BugSquash/obj/Debug/net6.0/UT1_BugSquash.AssemblyInfoInputs.cache
+/Users/nihalkarim/Desktop/rit /fall22/igme-201/Exam-1/UT1_BugSquash/UT1_BugSquash/obj/Debug/net6.0/UT1_BugSquash.AssemblyInfo.cs
+/Users/nihalkarim/Desktop/rit /fall22/igme-201/Exam-1/UT1_BugSquash/UT1_BugSquash/obj/Debug/net6.0/UT1_BugSquash.csproj.CoreCompileInputs.cache
+/Users/nihalkarim/Desktop/rit /fall22/igme-201/Exam-1/UT1_BugSquash/UT1_BugSquash/bin/Debug/net6.0/UT1_BugSquash
+/Users/nihalkarim/Desktop/rit /fall22/igme-201/Exam-1/UT1_BugSquash/UT1_BugSquash/bin/Debug/net6.0/UT1_BugSquash.deps.json
+/Users/nihalkarim/Desktop/rit /fall22/igme-201/Exam-1/UT1_BugSquash/UT1_BugSquash/bin/Debug/net6.0/UT1_BugSquash.runtimeconfig.json
+/Users/nihalkarim/Desktop/rit /fall22/igme-201/Exam-1/UT1_BugSquash/UT1_BugSquash/bin/Debug/net6.0/UT1_BugSquash.dll
+/Users/nihalkarim/Desktop/rit /fall22/igme-201/Exam-1/UT1_BugSquash/UT1_BugSquash/bin/Debug/net6.0/UT1_BugSquash.pdb
+/Users/nihalkarim/Desktop/rit /fall22/igme-201/Exam-1/UT1_BugSquash/UT1_BugSquash/obj/Debug/net6.0/UT1_BugSquash.dll
+/Users/nihalkarim/Desktop/rit /fall22/igme-201/Exam-1/UT1_BugSquash/UT1_BugSquash/obj/Debug/net6.0/refint/UT1_BugSquash.dll
+/Users/nihalkarim/Desktop/rit /fall22/igme-201/Exam-1/UT1_BugSquash/UT1_BugSquash/obj/Debug/net6.0/UT1_BugSquash.pdb
+/Users/nihalkarim/Desktop/rit /fall22/igme-201/Exam-1/UT1_BugSquash/UT1_BugSquash/obj/Debug/net6.0/UT1_BugSquash.genruntimeconfig.cache
+/Users/nihalkarim/Desktop/rit /fall22/igme-201/Exam-1/UT1_BugSquash/UT1_BugSquash/obj/Debug/net6.0/ref/UT1_BugSquash.dll

@@ -1,92 +1,79 @@
 ﻿using System;
 
-namespace NumberSort
+namespace WordSort
 {
+    /* Author: Nihal Karim
+     * Name: Program
+     * Purpose: to prompt the user to enter a sentence and choose if they want it to be sorted in an ascending or descending order
+     * Restrictions: none!
+     */
     class Program
     {
         // the definition of the delegate function data type
-        delegate double sortingFunction(double[] a);
+        delegate string sortingFunction(string[] a);
 
         static void Main(string[] args)
         {
             // declare the unsorted and sorted arrays
-            double[] aUnsorted;
-            double[] aSorted;
+            string[] unsorted;
+            string[] sorted;
 
             // declare the delegate variable which will point to the function to be called
             sortingFunction findHiLow;
 
         // a label to allow us to easily loop back to the start if there are input issues
         start:
-            Console.WriteLine("Enter a list of space-separated numbers");
+            Console.WriteLine("Enter a sentence:");
 
-            // read the space-separated string of numbers
-            string sNumbers = Console.ReadLine();
+            // read the sentence
+            string inputSentence = Console.ReadLine();
 
-            // split the string into the an array of strings which are the individual numbers
-            string[] sNumber = sNumbers.Split(' ');
+            // split the string into the an array of strings which are the individual words
+            string[] sentArray = inputSentence.Split(' ');
 
             // initialize the size of the unsorted array to 0
-            int nUnsortedLength = 0;
+            int unsortedLength = 0;
 
             // a double used for parsing the current array element
-            double nThisNumber;
+            //double nThisNumber;
+            string sThisNum;
 
-            // iterate through the array of number strings
-            foreach (string sThisNumber in sNumber)
+            // iterate through the array of word strings
+            foreach (string word in sentArray)
             {
                 // if the length of this string is 0 (ie. they typed 2 spaces in a row)
-                if (sThisNumber.Length == 0)
+                if (word.Length == 0)
                 {
                     // skip it
                     continue;
                 }
 
-                try
-                {
-                    // try to parse the current string into a double
-                    nThisNumber = double.Parse(sThisNumber);
-
-                    // if it's successful, increment the number of unsorted numbers
-                    ++nUnsortedLength;
-                }
-                catch
-                {
-                    // if an exception occurs
-                    // indicate which number is invalid
-                    Console.WriteLine($"Number #{nUnsortedLength + 1} is not a valid number.");
-
-                    // loop back to the start
-                    goto start;
-                }
+                ++unsortedLength;
             }
 
-            // now we know how many unsorted numbers there are
+            // now we know how many unsorted words there are
             // allocate the size of the unsorted array
-            aUnsorted = new double[nUnsortedLength];
+            unsorted = new string[unsortedLength];
 
-            // reset nUnsortedLength back to 0 to use as the index to store the numbers in the unsorted array
-            nUnsortedLength = 0;
-            foreach (string sThisNumber in sNumber)
+            // reset unsortedLength back to 0 to use as the index to store the words in the unsorted array
+            unsortedLength = 0;
+            foreach (string word in sentArray)
             {
                 // still skip the blank strings
-                if (sThisNumber.Length == 0)
+                if (word.Length == 0)
                 {
                     continue;
                 }
 
-                // parse it into a double (we know they are all valid now)
-                nThisNumber = double.Parse(sThisNumber);
-
                 // store the value into the array
-                aUnsorted[nUnsortedLength] = nThisNumber;
+                unsorted[unsortedLength] = word;
 
                 // increment the array index
-                nUnsortedLength++;
+                unsortedLength++;
             }
 
             // allocate the size of the sorted array
-            aSorted = new double[nUnsortedLength];
+            sorted = new string[unsortedLength];
 
             // prompt for <a>scending or <d>escending
             Console.Write("Ascending or Descending? ");
@@ -105,46 +92,47 @@ namespace NumberSort
             int nSortedLength = 0;
 
             // while there are unsorted values to sort
-            while (aUnsorted.Length > 0)
+            while (unsorted.Length > 0)
             {
                 // store the lowest or highest unsorted value as the next sorted value
-                aSorted[nSortedLength] = findHiLow(aUnsorted);
+                sorted[nSortedLength] = findHiLow(unsorted);
 
                 // remove the current sorted value
-                RemoveUnsortedValue(aSorted[nSortedLength], ref aUnsorted);
+                RemoveUnsortedValue(sorted[nSortedLength], ref unsorted);
 
                 // increment the number of values in the sorted array
                 ++nSortedLength;
             }
 
-            // write the sorted array of numbers
+            // write the sorted array of words
             Console.WriteLine("The sorted list is: ");
-            foreach (double thisNum in aSorted)
+            foreach (string word in sorted)
             {
-                Console.Write($"{thisNum} ");
+                Console.Write($"{word} ");
             }
 
             Console.WriteLine();
         }
 
-        // find the lowest value in the array of doubles
-        static double FindLowestValue(double[] array)
+
+        // find the lowest value in the array of strings
+        static string FindLowestValue(string[] array)
         {
             // define return value
-            double returnVal;
+            string returnVal;
 
             // initialize to the first element in the array
             // (we must initialize to an array element)
             returnVal = array[0];
 
             // loop through the array
-            foreach (double thisNum in array)
+            foreach (string currWord in array)
             {
-                // if the current value is less than the saved lowest value
-                if (thisNum < returnVal)
+                //if the current value is less than the saved lowest value
+                if (currWord.CompareTo(returnVal) < 0)
                 {
                     // save this as the lowest value
-                    returnVal = thisNum;
+                    returnVal = currWord;
                 }
             }
 
@@ -152,23 +140,25 @@ namespace NumberSort
             return (returnVal);
         }
 
-        static double FindHighestValue(double[] array)
+
+        // find the lowest value in the array of strings
+        static string FindHighestValue(string[] array)
         {
             // define return value
-            double returnVal;
+            string returnVal;
 
             // initialize to the first element in the array
             // (we must initialize to an array element)
             returnVal = array[0];
 
             // loop through the array
-            foreach (double thisNum in array)
+            foreach (string currWord in array)
             {
                 // if the current value is greater than the saved highest value
-                if (thisNum > returnVal)
+                if (currWord.CompareTo(returnVal) > 0)
                 {
-                    // save this as the highest value
-                    returnVal = thisNum;
+                    // save this as the lowest value
+                    returnVal = currWord;
                 }
             }
 
@@ -178,10 +168,10 @@ namespace NumberSort
 
 
         // remove the first instance of a value from an array
-        static void RemoveUnsortedValue(double removeValue, ref double[] array)
+        static void RemoveUnsortedValue(string removeValue, ref string[] array)
         {
             // allocate a new array to hold 1 less value than the source array
-            double[] newArray = new double[array.Length - 1];
+            string[] newArray = new string[array.Length - 1];
 
             // we need a separate counter to index into the new array, 
             // since we are skipping a value in the source array
@@ -191,9 +181,9 @@ namespace NumberSort
             bool bAlreadyRemoved = false;
 
             // iterate through the source array
-            foreach (double srcNumber in array)
+            foreach (string srcNumber in array)
             {
-                // if this is the number to be removed and we didn't remove it yet
+                // if this is the word to be removed and we didn't remove it yet
                 if (srcNumber == removeValue && !bAlreadyRemoved)
                 {
                     // set the flag that it was removed
