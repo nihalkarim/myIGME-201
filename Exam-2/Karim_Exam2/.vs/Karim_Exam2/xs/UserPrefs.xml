@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{2AACEA80-4BF0-4CCD-9984-C05B00D8AA72}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Karim_Exam2/Program.cs">
+    <Files>
+      <File FileName="Karim_Exam2/Program.cs" Line="52" Column="41" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Karim_Exam2" expanded="True">
+            <Node name="Karim_Exam2" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Karim__Exam2 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
