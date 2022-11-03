@@ -1,0 +1,15 @@
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/p9/q2-timedMathQuiz/q2-timedMathQuiz/bin/Debug/net6.0/q2-timedMathQuiz
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/p9/q2-timedMathQuiz/q2-timedMathQuiz/bin/Debug/net6.0/q2-timedMathQuiz.deps.json
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/p9/q2-timedMathQuiz/q2-timedMathQuiz/bin/Debug/net6.0/q2-timedMathQuiz.runtimeconfig.json
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/p9/q2-timedMathQuiz/q2-timedMathQuiz/bin/Debug/net6.0/q2-timedMathQuiz.dll
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/p9/q2-timedMathQuiz/q2-timedMathQuiz/bin/Debug/net6.0/q2-timedMathQuiz.pdb
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/p9/q2-timedMathQuiz/q2-timedMathQuiz/obj/Debug/net6.0/q2-timedMathQuiz.csproj.AssemblyReference.cache
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/p9/q2-timedMathQuiz/q2-timedMathQuiz/obj/Debug/net6.0/q2-timedMathQuiz.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/p9/q2-timedMathQuiz/q2-timedMathQuiz/obj/Debug/net6.0/q2-timedMathQuiz.AssemblyInfoInputs.cache
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/p9/q2-timedMathQuiz/q2-timedMathQuiz/obj/Debug/net6.0/q2-timedMathQuiz.AssemblyInfo.cs
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/p9/q2-timedMathQuiz/q2-timedMathQuiz/obj/Debug/net6.0/q2-timedMathQuiz.csproj.CoreCompileInputs.cache
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/p9/q2-timedMathQuiz/q2-timedMathQuiz/obj/Debug/net6.0/q2-timedMathQuiz.dll
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/p9/q2-timedMathQuiz/q2-timedMathQuiz/obj/Debug/net6.0/refint/q2-timedMathQuiz.dll
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/p9/q2-timedMathQuiz/q2-timedMathQuiz/obj/Debug/net6.0/q2-timedMathQuiz.pdb
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/p9/q2-timedMathQuiz/q2-timedMathQuiz/obj/Debug/net6.0/q2-timedMathQuiz.genruntimeconfig.cache
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/p9/q2-timedMathQuiz/q2-timedMathQuiz/obj/Debug/net6.0/ref/q2-timedMathQuiz.dll

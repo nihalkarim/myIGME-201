@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{544042CE-8615-40B3-B319-8201F66B1F94}|Default">
+  <MonoDevelop.Ide.ItemProperties.Karim__2-1__Arrays PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Karim_2-1_Arrays/Program.cs">
+    <Files>
+      <File FileName="Karim_2-1_Arrays/Program.cs" Line="111" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Karim_2-1_Arrays" expanded="True">
+            <Node name="Karim_2-1_Arrays" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>

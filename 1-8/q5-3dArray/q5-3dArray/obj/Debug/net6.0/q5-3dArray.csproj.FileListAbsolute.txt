@@ -1,0 +1,15 @@
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/1-8/q5-3dArray/q5-3dArray/bin/Debug/net6.0/q5-3dArray
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/1-8/q5-3dArray/q5-3dArray/bin/Debug/net6.0/q5-3dArray.deps.json
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/1-8/q5-3dArray/q5-3dArray/bin/Debug/net6.0/q5-3dArray.runtimeconfig.json
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/1-8/q5-3dArray/q5-3dArray/bin/Debug/net6.0/q5-3dArray.dll
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/1-8/q5-3dArray/q5-3dArray/bin/Debug/net6.0/q5-3dArray.pdb
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/1-8/q5-3dArray/q5-3dArray/obj/Debug/net6.0/q5-3dArray.csproj.AssemblyReference.cache
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/1-8/q5-3dArray/q5-3dArray/obj/Debug/net6.0/q5-3dArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/1-8/q5-3dArray/q5-3dArray/obj/Debug/net6.0/q5-3dArray.AssemblyInfoInputs.cache
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/1-8/q5-3dArray/q5-3dArray/obj/Debug/net6.0/q5-3dArray.AssemblyInfo.cs
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/1-8/q5-3dArray/q5-3dArray/obj/Debug/net6.0/q5-3dArray.csproj.CoreCompileInputs.cache
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/1-8/q5-3dArray/q5-3dArray/obj/Debug/net6.0/q5-3dArray.dll
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/1-8/q5-3dArray/q5-3dArray/obj/Debug/net6.0/refint/q5-3dArray.dll
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/1-8/q5-3dArray/q5-3dArray/obj/Debug/net6.0/q5-3dArray.pdb
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/1-8/q5-3dArray/q5-3dArray/obj/Debug/net6.0/q5-3dArray.genruntimeconfig.cache
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/1-8/q5-3dArray/q5-3dArray/obj/Debug/net6.0/ref/q5-3dArray.dll

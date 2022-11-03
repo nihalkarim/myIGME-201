@@ -3,26 +3,14 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Internal;
 
 namespace HelloWorld
 {
-    class Program
+    static internal class Program
     {
         static void Main(string[] args)
         {
-            /* The 5 randomly-numbered index cards represent an unsorted array, and the 5 blank index cards will contain the sorted array.
-             * 
-             * Put the unsorted pile to your left, and place the 5 blank sheets of paper in a pile to your right.  
-             * 
-             * Submit a Word ddoc which has in English (not computer code) the exact steps to sort and copy the numbers in ascending order 
-             * from the pile on the left to the pile on the right, without changing the order of the unsorted array.
-             * 
-             * Any time you touch any piece of paper, you must have an instruction written down
-             *
-             */
-
-
-
             int[] unsorted = new int[] { 51, 43, 67, 29, 92 };
             int[] sorted = new int[];
 
@@ -59,6 +47,88 @@ namespace HelloWorld
                 Console.Write(unsorted[i] + " ");
             }
         }
+
+
+
+        static void ArraySort()
+        {
+            double[] unsorted;
+            double[] sorted;
+
+            start:
+
+            Console.WriteLine("Enter a list of space separated numbers:");
+            string numString = Console.ReadLine();
+            string[] numbers = numString.Split(' ');
+
+            int unsortedLength = 0;
+            double currNum = 0;
+
+            foreach(string currNumStr in numbers)
+            {
+                if(currNumStr.Length == 0)
+                {
+                    continue;
+                }
+
+                try
+                {
+                    currNum = double.Parse(currNumStr);
+                    ++unsortedLength;
+                } catch
+                {
+                    Console.WriteLine($"Number #{unsortedLength + 1} is not a valid number.");
+                    goto start;
+                }
+            }
+
+            unsorted = new double[unsortedLength];
+
+            unsortedLength = 0;
+
+            foreach (string currNumStr in numbers)
+            {
+                if (currNumStr.Length == 0)
+                {
+                    continue;
+                }
+
+                currNum = double.Parse(currNumStr);
+                unsorted[unsortedLength] = currNum;
+                ++unsortedLength;
+            }
+
+            sorted = new double[unsortedLength];
+
+            int sortedLength = 0;
+            while(unsorted.Length > 0)
+            {
+                sorted[sortedLength] = FindLowestValue(unsorted);
+                RemoveUnsortedValue(sorted[sortedLength], ref unsorted);
+                ++sortedLength;
+            }
+        }
+
+
+        static double FindLowestValue(double[] array)
+        {
+            double returnVal = array[0];
+
+            foreach(double num in array)
+            {
+                if(num < returnVal)
+                {
+                    returnVal = num;
+                }
+            }
+            return returnVal;
+        }
+
+        static void RemoveUnsortedValue(double removeVal, ref double[] array) 
+        {
+            //code in github
+        }
     }
+
 }
 

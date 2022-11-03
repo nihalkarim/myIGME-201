@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{76AA3C36-4135-4CE1-B345-68D2FD252202}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="p4-structMod/Program.cs">
+    <Files>
+      <File FileName="p4-structMod/Program.cs" Line="32" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="p4-structMod" expanded="True">
+            <Node name="p4-structMod" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.p4-structMod PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

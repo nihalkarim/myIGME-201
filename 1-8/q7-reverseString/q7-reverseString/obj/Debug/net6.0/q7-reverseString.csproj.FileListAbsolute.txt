@@ -1,0 +1,15 @@
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/1-8/q7-reverseString/q7-reverseString/bin/Debug/net6.0/q7-reverseString
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/1-8/q7-reverseString/q7-reverseString/bin/Debug/net6.0/q7-reverseString.deps.json
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/1-8/q7-reverseString/q7-reverseString/bin/Debug/net6.0/q7-reverseString.runtimeconfig.json
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/1-8/q7-reverseString/q7-reverseString/bin/Debug/net6.0/q7-reverseString.dll
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/1-8/q7-reverseString/q7-reverseString/bin/Debug/net6.0/q7-reverseString.pdb
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/1-8/q7-reverseString/q7-reverseString/obj/Debug/net6.0/q7-reverseString.csproj.AssemblyReference.cache
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/1-8/q7-reverseString/q7-reverseString/obj/Debug/net6.0/q7-reverseString.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/1-8/q7-reverseString/q7-reverseString/obj/Debug/net6.0/q7-reverseString.AssemblyInfoInputs.cache
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/1-8/q7-reverseString/q7-reverseString/obj/Debug/net6.0/q7-reverseString.AssemblyInfo.cs
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/1-8/q7-reverseString/q7-reverseString/obj/Debug/net6.0/q7-reverseString.csproj.CoreCompileInputs.cache
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/1-8/q7-reverseString/q7-reverseString/obj/Debug/net6.0/q7-reverseString.dll
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/1-8/q7-reverseString/q7-reverseString/obj/Debug/net6.0/refint/q7-reverseString.dll
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/1-8/q7-reverseString/q7-reverseString/obj/Debug/net6.0/q7-reverseString.pdb
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/1-8/q7-reverseString/q7-reverseString/obj/Debug/net6.0/q7-reverseString.genruntimeconfig.cache
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/1-8/q7-reverseString/q7-reverseString/obj/Debug/net6.0/ref/q7-reverseString.dll

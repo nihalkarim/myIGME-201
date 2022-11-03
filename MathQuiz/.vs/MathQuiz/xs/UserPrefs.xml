@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{DFCCCDE8-047E-423F-BACB-4441144B6780}|Default">
+  <MonoDevelop.Ide.ItemProperties.MathQuiz PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="MathQuiz/Program.cs">
+    <Files>
+      <File FileName="MathQuiz/Program.cs" Line="152" Column="30" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MathQuiz" expanded="True">
+            <Node name="MathQuiz" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

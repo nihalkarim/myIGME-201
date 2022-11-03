@@ -1,0 +1,15 @@
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/p9/p4-structMod/p4-structMod/bin/Debug/net6.0/p4-structMod
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/p9/p4-structMod/p4-structMod/bin/Debug/net6.0/p4-structMod.deps.json
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/p9/p4-structMod/p4-structMod/bin/Debug/net6.0/p4-structMod.runtimeconfig.json
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/p9/p4-structMod/p4-structMod/bin/Debug/net6.0/p4-structMod.dll
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/p9/p4-structMod/p4-structMod/bin/Debug/net6.0/p4-structMod.pdb
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/p9/p4-structMod/p4-structMod/obj/Debug/net6.0/p4-structMod.csproj.AssemblyReference.cache
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/p9/p4-structMod/p4-structMod/obj/Debug/net6.0/p4-structMod.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/p9/p4-structMod/p4-structMod/obj/Debug/net6.0/p4-structMod.AssemblyInfoInputs.cache
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/p9/p4-structMod/p4-structMod/obj/Debug/net6.0/p4-structMod.AssemblyInfo.cs
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/p9/p4-structMod/p4-structMod/obj/Debug/net6.0/p4-structMod.csproj.CoreCompileInputs.cache
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/p9/p4-structMod/p4-structMod/obj/Debug/net6.0/p4-structMod.dll
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/p9/p4-structMod/p4-structMod/obj/Debug/net6.0/refint/p4-structMod.dll
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/p9/p4-structMod/p4-structMod/obj/Debug/net6.0/p4-structMod.pdb
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/p9/p4-structMod/p4-structMod/obj/Debug/net6.0/p4-structMod.genruntimeconfig.cache
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/p9/p4-structMod/p4-structMod/obj/Debug/net6.0/ref/p4-structMod.dll

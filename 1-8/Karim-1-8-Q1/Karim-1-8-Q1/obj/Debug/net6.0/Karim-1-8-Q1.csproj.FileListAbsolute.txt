@@ -1,0 +1,15 @@
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/Karim-1-8-Q1/Karim-1-8-Q1/bin/Debug/net6.0/Karim-1-8-Q1
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/Karim-1-8-Q1/Karim-1-8-Q1/bin/Debug/net6.0/Karim-1-8-Q1.deps.json
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/Karim-1-8-Q1/Karim-1-8-Q1/bin/Debug/net6.0/Karim-1-8-Q1.runtimeconfig.json
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/Karim-1-8-Q1/Karim-1-8-Q1/bin/Debug/net6.0/Karim-1-8-Q1.dll
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/Karim-1-8-Q1/Karim-1-8-Q1/bin/Debug/net6.0/Karim-1-8-Q1.pdb
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/Karim-1-8-Q1/Karim-1-8-Q1/obj/Debug/net6.0/Karim-1-8-Q1.csproj.AssemblyReference.cache
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/Karim-1-8-Q1/Karim-1-8-Q1/obj/Debug/net6.0/Karim-1-8-Q1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/Karim-1-8-Q1/Karim-1-8-Q1/obj/Debug/net6.0/Karim-1-8-Q1.AssemblyInfoInputs.cache
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/Karim-1-8-Q1/Karim-1-8-Q1/obj/Debug/net6.0/Karim-1-8-Q1.AssemblyInfo.cs
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/Karim-1-8-Q1/Karim-1-8-Q1/obj/Debug/net6.0/Karim-1-8-Q1.csproj.CoreCompileInputs.cache
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/Karim-1-8-Q1/Karim-1-8-Q1/obj/Debug/net6.0/Karim-1-8-Q1.dll
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/Karim-1-8-Q1/Karim-1-8-Q1/obj/Debug/net6.0/refint/Karim-1-8-Q1.dll
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/Karim-1-8-Q1/Karim-1-8-Q1/obj/Debug/net6.0/Karim-1-8-Q1.pdb
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/Karim-1-8-Q1/Karim-1-8-Q1/obj/Debug/net6.0/Karim-1-8-Q1.genruntimeconfig.cache
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/Karim-1-8-Q1/Karim-1-8-Q1/obj/Debug/net6.0/ref/Karim-1-8-Q1.dll

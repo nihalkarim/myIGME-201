@@ -1,0 +1,15 @@
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/1-8/q8-noYes/q8-noYes/bin/Debug/net6.0/q8-noYes
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/1-8/q8-noYes/q8-noYes/bin/Debug/net6.0/q8-noYes.deps.json
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/1-8/q8-noYes/q8-noYes/bin/Debug/net6.0/q8-noYes.runtimeconfig.json
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/1-8/q8-noYes/q8-noYes/bin/Debug/net6.0/q8-noYes.dll
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/1-8/q8-noYes/q8-noYes/bin/Debug/net6.0/q8-noYes.pdb
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/1-8/q8-noYes/q8-noYes/obj/Debug/net6.0/q8-noYes.csproj.AssemblyReference.cache
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/1-8/q8-noYes/q8-noYes/obj/Debug/net6.0/q8-noYes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/1-8/q8-noYes/q8-noYes/obj/Debug/net6.0/q8-noYes.AssemblyInfoInputs.cache
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/1-8/q8-noYes/q8-noYes/obj/Debug/net6.0/q8-noYes.AssemblyInfo.cs
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/1-8/q8-noYes/q8-noYes/obj/Debug/net6.0/q8-noYes.csproj.CoreCompileInputs.cache
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/1-8/q8-noYes/q8-noYes/obj/Debug/net6.0/q8-noYes.dll
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/1-8/q8-noYes/q8-noYes/obj/Debug/net6.0/refint/q8-noYes.dll
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/1-8/q8-noYes/q8-noYes/obj/Debug/net6.0/q8-noYes.pdb
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/1-8/q8-noYes/q8-noYes/obj/Debug/net6.0/q8-noYes.genruntimeconfig.cache
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/1-8/q8-noYes/q8-noYes/obj/Debug/net6.0/ref/q8-noYes.dll

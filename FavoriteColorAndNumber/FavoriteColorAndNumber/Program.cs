@@ -4,7 +4,7 @@ using System.ComponentModel.DataAnnotations;
 using System.Drawing;
 using System.Text.RegularExpressions;
 using System.Threading.Channels;
-using Internal;
+//using Internal;
 
 namespace FavoriteColorAndNumber
 {
@@ -14,6 +14,18 @@ namespace FavoriteColorAndNumber
     //Restrictions: None
     static internal class Program
     {
+        static void PrintMyColor(string colorString)
+        {
+            colorString += " is your fav color.";
+            Console.WriteLine(colorString);
+        }
+
+        static void PrintMyColorByReference(ref string colorString)
+        {
+            colorString += " is your fav color.";
+            Console.WriteLine(colorString);
+        }
+
         //Method: Main
         //Purpose:
         //Restrictions: None
@@ -23,17 +35,33 @@ namespace FavoriteColorAndNumber
             sFavColor = "";
             sFavColor.ToUpper();
             sFavColor = sFavColor.ToUpper();
-            int? nFavNumber = null;
+            int nFavNumber = null;
 
             // prompt the user for their favorite color
-            Console.Write("Enter your favourite colour:\t");
+            Console.Write("Enter your favourite colour: ");
 
             // get the user's input and store it in a variable
             //Console.ReadLine(); ==> reads line but doesn't save it!
             sFavColor = Console.ReadLine();
 
+
+            //pass by var
+            PrintMyColor(sFavColor);
+            Console.WriteLine(sFavColor);
+            //passs by ref
+            PrintMyColorByReference(ref sFavColor);
+            Console.WriteLine(sFavColor);
+
+
             // prompt the user for their favorite number
             Console.Write("Enter your favourite number:\t");
+
+            string sNumber = "";
+            do
+            {
+                sNumber = Console.ReadLine();
+            } while (!int.TryParse(sNumber, out nFavNumber));
+
 
             // validate that the user entered a valid number
             // do while loop will execute at least once
@@ -51,7 +79,7 @@ namespace FavoriteColorAndNumber
             }
             while (nFavNumber == null);
 
-            // not guaranteed to exeute
+            // not guaranteed to execute
             while(nFavNumber == null)
             {
                 try
@@ -90,9 +118,9 @@ namespace FavoriteColorAndNumber
             // output their favorite color the number of times as their favorite number
             for(int i = 0; i < nFavNumber; ++i)
             {
-                Console.Write("Your favourite colour is " + sFavColor +"!");
-                Console.Write($"Your favourite colour is  {sFavColor} !"); //string interpolation. add $. code block w its own scope
-                Console.Write("Your favourite colour is {0}{1}", sFavColor, "!"); //string substitution
+                //Console.Write("Your favourite colour is " + sFavColor +"!");
+                Console.Write($"Your favourite colour is {sFavColor}! \n"); //string interpolation. add $. code block w its own scope
+                //Console.Write("Your favourite colour is {0}{1}", sFavColor, "!"); //string substitution
             }
 
         }

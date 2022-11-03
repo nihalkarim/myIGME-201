@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/nihalkarim/Desktop/rit /fall22/igme-201/FavoriteColorAndNumber/FavoriteColorAndNumber/FavoriteColorAndNumber.csproj": {}
+    "/Users/nihalkarim/Desktop/rit/fall22/igme-201/FavoriteColorAndNumber/FavoriteColorAndNumber/FavoriteColorAndNumber.csproj": {}
   },
   "projects": {
-    "/Users/nihalkarim/Desktop/rit /fall22/igme-201/FavoriteColorAndNumber/FavoriteColorAndNumber/FavoriteColorAndNumber.csproj": {
+    "/Users/nihalkarim/Desktop/rit/fall22/igme-201/FavoriteColorAndNumber/FavoriteColorAndNumber/FavoriteColorAndNumber.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/nihalkarim/Desktop/rit /fall22/igme-201/FavoriteColorAndNumber/FavoriteColorAndNumber/FavoriteColorAndNumber.csproj",
+        "projectUniqueName": "/Users/nihalkarim/Desktop/rit/fall22/igme-201/FavoriteColorAndNumber/FavoriteColorAndNumber/FavoriteColorAndNumber.csproj",
         "projectName": "FavoriteColorAndNumber",
-        "projectPath": "/Users/nihalkarim/Desktop/rit /fall22/igme-201/FavoriteColorAndNumber/FavoriteColorAndNumber/FavoriteColorAndNumber.csproj",
+        "projectPath": "/Users/nihalkarim/Desktop/rit/fall22/igme-201/FavoriteColorAndNumber/FavoriteColorAndNumber/FavoriteColorAndNumber.csproj",
         "packagesPath": "/Users/nihalkarim/.nuget/packages/",
-        "outputPath": "/Users/nihalkarim/Desktop/rit /fall22/igme-201/FavoriteColorAndNumber/FavoriteColorAndNumber/obj/",
+        "outputPath": "/Users/nihalkarim/Desktop/rit/fall22/igme-201/FavoriteColorAndNumber/FavoriteColorAndNumber/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/nihalkarim/.nuget/NuGet/NuGet.Config"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.401/RuntimeIdentifierGraph.json"
         }
       }
     }

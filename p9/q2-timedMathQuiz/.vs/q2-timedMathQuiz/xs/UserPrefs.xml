@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{FF936C60-39E8-4009-ADEB-A5E551E75F6E}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="q2-timedMathQuiz/Program.cs">
+    <Files>
+      <File FileName="q2-timedMathQuiz/Program.cs" Line="186" Column="74" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="q2-timedMathQuiz" expanded="True">
+            <Node name="q2-timedMathQuiz" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.q2-timedMathQuiz PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

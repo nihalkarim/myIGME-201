@@ -1,0 +1,15 @@
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/p9/q1-funcErrors/q1-funcErrors/bin/Debug/net6.0/q1-funcErrors
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/p9/q1-funcErrors/q1-funcErrors/bin/Debug/net6.0/q1-funcErrors.deps.json
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/p9/q1-funcErrors/q1-funcErrors/bin/Debug/net6.0/q1-funcErrors.runtimeconfig.json
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/p9/q1-funcErrors/q1-funcErrors/bin/Debug/net6.0/q1-funcErrors.dll
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/p9/q1-funcErrors/q1-funcErrors/bin/Debug/net6.0/q1-funcErrors.pdb
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/p9/q1-funcErrors/q1-funcErrors/obj/Debug/net6.0/q1-funcErrors.csproj.AssemblyReference.cache
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/p9/q1-funcErrors/q1-funcErrors/obj/Debug/net6.0/q1-funcErrors.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/p9/q1-funcErrors/q1-funcErrors/obj/Debug/net6.0/q1-funcErrors.AssemblyInfoInputs.cache
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/p9/q1-funcErrors/q1-funcErrors/obj/Debug/net6.0/q1-funcErrors.AssemblyInfo.cs
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/p9/q1-funcErrors/q1-funcErrors/obj/Debug/net6.0/q1-funcErrors.csproj.CoreCompileInputs.cache
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/p9/q1-funcErrors/q1-funcErrors/obj/Debug/net6.0/q1-funcErrors.dll
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/p9/q1-funcErrors/q1-funcErrors/obj/Debug/net6.0/refint/q1-funcErrors.dll
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/p9/q1-funcErrors/q1-funcErrors/obj/Debug/net6.0/q1-funcErrors.pdb
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/p9/q1-funcErrors/q1-funcErrors/obj/Debug/net6.0/q1-funcErrors.genruntimeconfig.cache
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/p9/q1-funcErrors/q1-funcErrors/obj/Debug/net6.0/ref/q1-funcErrors.dll

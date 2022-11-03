@@ -13,3 +13,18 @@
 /Users/nihalkarim/Desktop/rit /fall22/igme-201/FavoriteColorAndNumber/FavoriteColorAndNumber/obj/Debug/net6.0/FavoriteColorAndNumber.pdb
 /Users/nihalkarim/Desktop/rit /fall22/igme-201/FavoriteColorAndNumber/FavoriteColorAndNumber/obj/Debug/net6.0/FavoriteColorAndNumber.genruntimeconfig.cache
 /Users/nihalkarim/Desktop/rit /fall22/igme-201/FavoriteColorAndNumber/FavoriteColorAndNumber/obj/Debug/net6.0/ref/FavoriteColorAndNumber.dll
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/FavoriteColorAndNumber/FavoriteColorAndNumber/obj/Debug/net6.0/FavoriteColorAndNumber.csproj.AssemblyReference.cache
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/FavoriteColorAndNumber/FavoriteColorAndNumber/obj/Debug/net6.0/FavoriteColorAndNumber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/FavoriteColorAndNumber/FavoriteColorAndNumber/obj/Debug/net6.0/FavoriteColorAndNumber.AssemblyInfoInputs.cache
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/FavoriteColorAndNumber/FavoriteColorAndNumber/obj/Debug/net6.0/FavoriteColorAndNumber.AssemblyInfo.cs
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/FavoriteColorAndNumber/FavoriteColorAndNumber/obj/Debug/net6.0/FavoriteColorAndNumber.csproj.CoreCompileInputs.cache
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/FavoriteColorAndNumber/FavoriteColorAndNumber/obj/Debug/net6.0/FavoriteColorAndNumber.dll
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/FavoriteColorAndNumber/FavoriteColorAndNumber/obj/Debug/net6.0/refint/FavoriteColorAndNumber.dll
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/FavoriteColorAndNumber/FavoriteColorAndNumber/obj/Debug/net6.0/FavoriteColorAndNumber.pdb
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/FavoriteColorAndNumber/FavoriteColorAndNumber/bin/Debug/net6.0/FavoriteColorAndNumber
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/FavoriteColorAndNumber/FavoriteColorAndNumber/bin/Debug/net6.0/FavoriteColorAndNumber.deps.json
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/FavoriteColorAndNumber/FavoriteColorAndNumber/bin/Debug/net6.0/FavoriteColorAndNumber.runtimeconfig.json
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/FavoriteColorAndNumber/FavoriteColorAndNumber/bin/Debug/net6.0/FavoriteColorAndNumber.dll
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/FavoriteColorAndNumber/FavoriteColorAndNumber/bin/Debug/net6.0/FavoriteColorAndNumber.pdb
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/FavoriteColorAndNumber/FavoriteColorAndNumber/obj/Debug/net6.0/FavoriteColorAndNumber.genruntimeconfig.cache
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/FavoriteColorAndNumber/FavoriteColorAndNumber/obj/Debug/net6.0/ref/FavoriteColorAndNumber.dll

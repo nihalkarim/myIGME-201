@@ -72,6 +72,7 @@ namespace DataTypeConversion
 
                         intNum = Convert.ToInt32(sNumber);
 
+                        bValid = int.TryParse(sNumber, out int num);
                         // introducing the Parse() method
                         // each data type has a Parse() method to parse a string to the data type
                         // for example, Int32 which is the same as int

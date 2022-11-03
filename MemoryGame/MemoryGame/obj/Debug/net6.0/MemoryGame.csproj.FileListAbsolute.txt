@@ -1,0 +1,15 @@
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/MemoryGame/MemoryGame/bin/Debug/net6.0/MemoryGame
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/MemoryGame/MemoryGame/bin/Debug/net6.0/MemoryGame.deps.json
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/MemoryGame/MemoryGame/bin/Debug/net6.0/MemoryGame.runtimeconfig.json
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/MemoryGame/MemoryGame/bin/Debug/net6.0/MemoryGame.dll
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/MemoryGame/MemoryGame/bin/Debug/net6.0/MemoryGame.pdb
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/MemoryGame/MemoryGame/obj/Debug/net6.0/MemoryGame.csproj.AssemblyReference.cache
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/MemoryGame/MemoryGame/obj/Debug/net6.0/MemoryGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/MemoryGame/MemoryGame/obj/Debug/net6.0/MemoryGame.AssemblyInfoInputs.cache
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/MemoryGame/MemoryGame/obj/Debug/net6.0/MemoryGame.AssemblyInfo.cs
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/MemoryGame/MemoryGame/obj/Debug/net6.0/MemoryGame.csproj.CoreCompileInputs.cache
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/MemoryGame/MemoryGame/obj/Debug/net6.0/MemoryGame.dll
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/MemoryGame/MemoryGame/obj/Debug/net6.0/refint/MemoryGame.dll
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/MemoryGame/MemoryGame/obj/Debug/net6.0/MemoryGame.pdb
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/MemoryGame/MemoryGame/obj/Debug/net6.0/MemoryGame.genruntimeconfig.cache
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/MemoryGame/MemoryGame/obj/Debug/net6.0/ref/MemoryGame.dll
