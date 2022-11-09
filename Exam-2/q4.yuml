@@ -1,0 +1,27 @@
+// {type:class}
+// {generate:true}
+// {direction:topDown}
+
+//abstract class Phone
+[+A:Phone | -phoneNumber:string; +address:string | +PhoneNumber:string; +Connect():a; +Disconnect():a]
+
+//interface PhoneInterface
+[+I:PhoneInterface | Answer();MakeCall();HangUp()]
+
+//2 classes, inherit Phone, implement interface
+[+RotaryPhone || +Answer();+MakeCall();+HangUp();+Connect():o;+Disconnect():o;]
+[+PushButtonPhone || +Answer();+MakeCall();+HangUp();+Connect():o;+Disconnect():o;]
+
+[+A:Phone] <-.- [+RotaryPhone]
+[+A:Phone] <-.- [+PushButtonPhone]
+
+[+I:PhoneInterface] ^ [+RotaryPhone]
+[+I:PhoneInterface] ^[+PushButtonPhone]
+
+
+//Tardis inherit RotaryPhone
+[+Tardis |-sonicScrewdriver:bool;-whichDrWho:byte;-femaleSidekick:string;+exteriorSurfaceArea:double;+interiorVolume:double;| +WhichDrWho:byte:r;+FemaleS]
+[+RotaryPhone] <- [+Tardis]
+
+
+//PhoneBooth inherit PushButtonPhone

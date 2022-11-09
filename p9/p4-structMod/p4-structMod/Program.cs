@@ -21,13 +21,13 @@ namespace HelloWorld
 
             public double TotalPrice()
             {
-                double total = unitCount * unitCost;
+                double total = this.unitCount * this.unitCost;
                 return total;
             }
 
             public string PriceFormat()
             {
-                return "Order Information: " + unitCount + " \'" + itemName + "\' items at $" + unitCost + " each, total cost $" + TotalPrice() + ".";
+                return "Order Information: " + this.unitCount + " \'" + this.itemName + "\' items at $" + this.unitCost + " each, total cost $" + this.TotalPrice() + ".";
             }
         }
 

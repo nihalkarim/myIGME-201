@@ -1,0 +1,19 @@
+// {type:class}
+// {generate:true}
+// {direction:topDown}
+
+//An abstract class called HotDrink that has the methods Drink(), AddMilk(), and AddSugar (), and the properties Milk, and Sugar.
+[A:HotDrink||+Drink();+AddMilk();+AddSugar();+Milk;+Sugar|]
+
+//An interface called ICup that has the methods Refill() and Wash(), and the properties Color and Volume.
+[I:ICup | +Refill();+Wash();+Color;+Volume]
+
+//A class called CupOfCoffee that derives from HotDrink, supports the ICup interface, and has the additional property BeanType.
+[CupOfCoffee||+Refill();+Wash();+Color;+Volume;+BeanType|]
+[A:HotDrink]<-.-[CupOfCoffee]
+[I:ICup]^[CupOfCoffee]
+
+//A class called CupOfTea that derives from HotDrink, supports the ICup interface, and has the additional property LeafType.
+[CupOfTea||+Refill();+Wash();+Color;+Volume;+LeafType|]
+[A:HotDrink]<-.-[CupOfTea]
+[I:ICup]^[CupOfTea]

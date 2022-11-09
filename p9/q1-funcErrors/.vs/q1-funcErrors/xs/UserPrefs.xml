@@ -1,9 +1,11 @@
 ﻿<Properties StartupConfiguration="{C282D6E2-474F-461A-9A51-8B7DDF68FEDA}|Default">
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.q1-funcErrors PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workbench ActiveDocument="q1-funcErrors/Program.cs">
     <Files>
       <File FileName="q1-funcErrors/Program.cs" Line="19" Column="35" />
@@ -21,6 +23,4 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.q1-funcErrors PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
