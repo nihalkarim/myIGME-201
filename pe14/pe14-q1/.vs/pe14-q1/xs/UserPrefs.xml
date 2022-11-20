@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{8159F139-7CA9-474F-BE97-FD26D4EBA955}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="pe14-q1/Program.cs">
+    <Files>
+      <File FileName="pe14-q1/Program.cs" Line="41" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="pe14-q1" expanded="True">
+            <Node name="pe14-q1" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.pe14-q1 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

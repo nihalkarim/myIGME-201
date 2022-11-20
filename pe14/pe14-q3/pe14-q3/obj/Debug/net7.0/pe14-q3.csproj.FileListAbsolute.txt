@@ -1,0 +1,15 @@
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/pe14/pe14-q3/pe14-q3/bin/Debug/net7.0/pe14-q3
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/pe14/pe14-q3/pe14-q3/bin/Debug/net7.0/pe14-q3.deps.json
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/pe14/pe14-q3/pe14-q3/bin/Debug/net7.0/pe14-q3.runtimeconfig.json
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/pe14/pe14-q3/pe14-q3/bin/Debug/net7.0/pe14-q3.dll
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/pe14/pe14-q3/pe14-q3/bin/Debug/net7.0/pe14-q3.pdb
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/pe14/pe14-q3/pe14-q3/obj/Debug/net7.0/pe14-q3.csproj.AssemblyReference.cache
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/pe14/pe14-q3/pe14-q3/obj/Debug/net7.0/pe14-q3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/pe14/pe14-q3/pe14-q3/obj/Debug/net7.0/pe14-q3.AssemblyInfoInputs.cache
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/pe14/pe14-q3/pe14-q3/obj/Debug/net7.0/pe14-q3.AssemblyInfo.cs
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/pe14/pe14-q3/pe14-q3/obj/Debug/net7.0/pe14-q3.csproj.CoreCompileInputs.cache
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/pe14/pe14-q3/pe14-q3/obj/Debug/net7.0/pe14-q3.dll
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/pe14/pe14-q3/pe14-q3/obj/Debug/net7.0/refint/pe14-q3.dll
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/pe14/pe14-q3/pe14-q3/obj/Debug/net7.0/pe14-q3.pdb
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/pe14/pe14-q3/pe14-q3/obj/Debug/net7.0/pe14-q3.genruntimeconfig.cache
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/pe14/pe14-q3/pe14-q3/obj/Debug/net7.0/ref/pe14-q3.dll

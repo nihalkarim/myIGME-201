@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1703.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pe11-vehicles", "pe11-vehicles\pe11-vehicles.csproj", "{389A4EC9-20E0-41C0-8818-CBA835A5E23E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pe11_q5", "pe11_q5\pe11_q5.csproj", "{A93270F6-1989-47CE-B094-E2F26897E6AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{389A4EC9-20E0-41C0-8818-CBA835A5E23E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{389A4EC9-20E0-41C0-8818-CBA835A5E23E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{389A4EC9-20E0-41C0-8818-CBA835A5E23E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{389A4EC9-20E0-41C0-8818-CBA835A5E23E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A93270F6-1989-47CE-B094-E2F26897E6AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A93270F6-1989-47CE-B094-E2F26897E6AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A93270F6-1989-47CE-B094-E2F26897E6AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A93270F6-1989-47CE-B094-E2F26897E6AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62F9A496-58A5-49EB-9457-CDD03293EA07}
+	EndGlobalSection
+EndGlobal

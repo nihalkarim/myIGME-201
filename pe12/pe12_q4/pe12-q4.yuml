@@ -1,0 +1,11 @@
+// {type:class}
+// {generate:true}
+// {direction:topDown}
+
+//Using Visual Studio Code, create the yuml file and generate the schUML SVG file for MyClass and MyDerivedClass.
+
+[+MyClass | -myString:string | +MyString:w; +GetString():string:v]
+
+[+MyDerivedClass | | +GetString():string:o]
+
+[+MyClass] <- [+MyDerivedClass]

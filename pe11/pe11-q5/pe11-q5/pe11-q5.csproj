@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>pe11_q5</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="pe11-vehicles" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="pe11-vehicles">
+      <HintPath>..\..\pe11-vehicles\pe11-vehicles\bin\Debug\net6.0\pe11-vehicles.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+</Project>

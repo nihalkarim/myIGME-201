@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{3BFF0C2E-D12B-4B94-ABC2-8923A0F9475E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="pe12_q1/MyDerivedClass.cs">
+    <Files>
+      <File FileName="pe12_q1/Program.cs" Line="12" Column="21" />
+      <File FileName="pe12_q1/MyDerivedClass.cs" Line="9" Column="10" />
+      <File FileName="../../p9/q2-timedMathQuiz/q2-timedMathQuiz/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="pe12_q1" expanded="True">
+            <Node name="pe12_q1" expanded="True">
+              <Node name="MyDerivedClass.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.pe12__q1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,12 @@
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/pe16/CafeLib/CafeLib/bin/Debug/net7.0/CafeLib.deps.json
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/pe16/CafeLib/CafeLib/bin/Debug/net7.0/CafeLib.dll
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/pe16/CafeLib/CafeLib/bin/Debug/net7.0/CafeLib.pdb
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/pe16/CafeLib/CafeLib/obj/Debug/net7.0/CafeLib.csproj.AssemblyReference.cache
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/pe16/CafeLib/CafeLib/obj/Debug/net7.0/CafeLib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/pe16/CafeLib/CafeLib/obj/Debug/net7.0/CafeLib.AssemblyInfoInputs.cache
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/pe16/CafeLib/CafeLib/obj/Debug/net7.0/CafeLib.AssemblyInfo.cs
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/pe16/CafeLib/CafeLib/obj/Debug/net7.0/CafeLib.csproj.CoreCompileInputs.cache
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/pe16/CafeLib/CafeLib/obj/Debug/net7.0/CafeLib.dll
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/pe16/CafeLib/CafeLib/obj/Debug/net7.0/refint/CafeLib.dll
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/pe16/CafeLib/CafeLib/obj/Debug/net7.0/CafeLib.pdb
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/pe16/CafeLib/CafeLib/obj/Debug/net7.0/ref/CafeLib.dll

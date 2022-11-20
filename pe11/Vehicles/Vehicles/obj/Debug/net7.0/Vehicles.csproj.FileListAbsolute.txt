@@ -1,0 +1,12 @@
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/pe11/Vehicles/Vehicles/bin/Debug/net7.0/Vehicles.deps.json
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/pe11/Vehicles/Vehicles/bin/Debug/net7.0/Vehicles.dll
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/pe11/Vehicles/Vehicles/bin/Debug/net7.0/Vehicles.pdb
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/pe11/Vehicles/Vehicles/obj/Debug/net7.0/Vehicles.csproj.AssemblyReference.cache
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/pe11/Vehicles/Vehicles/obj/Debug/net7.0/Vehicles.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/pe11/Vehicles/Vehicles/obj/Debug/net7.0/Vehicles.AssemblyInfoInputs.cache
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/pe11/Vehicles/Vehicles/obj/Debug/net7.0/Vehicles.AssemblyInfo.cs
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/pe11/Vehicles/Vehicles/obj/Debug/net7.0/Vehicles.csproj.CoreCompileInputs.cache
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/pe11/Vehicles/Vehicles/obj/Debug/net7.0/Vehicles.dll
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/pe11/Vehicles/Vehicles/obj/Debug/net7.0/refint/Vehicles.dll
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/pe11/Vehicles/Vehicles/obj/Debug/net7.0/Vehicles.pdb
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/pe11/Vehicles/Vehicles/obj/Debug/net7.0/ref/Vehicles.dll
