@@ -1,0 +1,12 @@
+C:\Users\nihal\source\repos\myIGME-201\group-project\karim-groupProjectModule\bin\Debug\karim-groupProjectModule.exe.config
+C:\Users\nihal\source\repos\myIGME-201\group-project\karim-groupProjectModule\bin\Debug\karim-groupProjectModule.exe
+C:\Users\nihal\source\repos\myIGME-201\group-project\karim-groupProjectModule\bin\Debug\karim-groupProjectModule.pdb
+C:\Users\nihal\source\repos\myIGME-201\group-project\karim-groupProjectModule\obj\Debug\karim-groupProjectModule.csproj.AssemblyReference.cache
+C:\Users\nihal\source\repos\myIGME-201\group-project\karim-groupProjectModule\obj\Debug\karim-groupProjectModule.csproj.SuggestedBindingRedirects.cache
+C:\Users\nihal\source\repos\myIGME-201\group-project\karim-groupProjectModule\obj\Debug\karim_groupProjectModule.Form1.resources
+C:\Users\nihal\source\repos\myIGME-201\group-project\karim-groupProjectModule\obj\Debug\karim_groupProjectModule.Properties.Resources.resources
+C:\Users\nihal\source\repos\myIGME-201\group-project\karim-groupProjectModule\obj\Debug\karim-groupProjectModule.csproj.GenerateResource.cache
+C:\Users\nihal\source\repos\myIGME-201\group-project\karim-groupProjectModule\obj\Debug\karim-groupProjectModule.csproj.CoreCompileInputs.cache
+C:\Users\nihal\source\repos\myIGME-201\group-project\karim-groupProjectModule\obj\Debug\karim-groupProjectModule.exe
+C:\Users\nihal\source\repos\myIGME-201\group-project\karim-groupProjectModule\obj\Debug\karim-groupProjectModule.pdb
+C:\Users\nihal\source\repos\myIGME-201\group-project\karim-groupProjectModule\obj\Debug\karim_groupProjectModule.sectionDetails.resources

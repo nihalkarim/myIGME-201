@@ -1,0 +1,8 @@
+C:\Users\nihal\source\repos\myIGME-201\pe24\GifFinder\obj\Debug\GifFinder.csproj.AssemblyReference.cache
+C:\Users\nihal\source\repos\myIGME-201\pe24\GifFinder\obj\Debug\GifFinder.csproj.SuggestedBindingRedirects.cache
+C:\Users\nihal\source\repos\myIGME-201\pe24\GifFinder\obj\Debug\GifFinder.GifFinder.resources
+C:\Users\nihal\source\repos\myIGME-201\pe24\GifFinder\obj\Debug\GifFinder.SearchForm.resources
+C:\Users\nihal\source\repos\myIGME-201\pe24\GifFinder\obj\Debug\GifFinder.ImageForm.resources
+C:\Users\nihal\source\repos\myIGME-201\pe24\GifFinder\obj\Debug\GifFinder.Properties.Resources.resources
+C:\Users\nihal\source\repos\myIGME-201\pe24\GifFinder\obj\Debug\GifFinder.csproj.GenerateResource.cache
+C:\Users\nihal\source\repos\myIGME-201\pe24\GifFinder\obj\Debug\GifFinder.csproj.CoreCompileInputs.cache
