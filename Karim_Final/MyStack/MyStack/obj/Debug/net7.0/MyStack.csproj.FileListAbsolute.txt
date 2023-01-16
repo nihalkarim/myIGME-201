@@ -1,0 +1,15 @@
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/Karim_Final/MyStack/MyStack/obj/Debug/net7.0/MyStack.csproj.AssemblyReference.cache
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/Karim_Final/MyStack/MyStack/obj/Debug/net7.0/MyStack.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/Karim_Final/MyStack/MyStack/obj/Debug/net7.0/MyStack.AssemblyInfoInputs.cache
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/Karim_Final/MyStack/MyStack/obj/Debug/net7.0/MyStack.AssemblyInfo.cs
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/Karim_Final/MyStack/MyStack/obj/Debug/net7.0/MyStack.csproj.CoreCompileInputs.cache
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/Karim_Final/MyStack/MyStack/bin/Debug/net7.0/MyStack
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/Karim_Final/MyStack/MyStack/bin/Debug/net7.0/MyStack.deps.json
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/Karim_Final/MyStack/MyStack/bin/Debug/net7.0/MyStack.runtimeconfig.json
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/Karim_Final/MyStack/MyStack/bin/Debug/net7.0/MyStack.dll
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/Karim_Final/MyStack/MyStack/bin/Debug/net7.0/MyStack.pdb
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/Karim_Final/MyStack/MyStack/obj/Debug/net7.0/MyStack.dll
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/Karim_Final/MyStack/MyStack/obj/Debug/net7.0/refint/MyStack.dll
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/Karim_Final/MyStack/MyStack/obj/Debug/net7.0/MyStack.pdb
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/Karim_Final/MyStack/MyStack/obj/Debug/net7.0/MyStack.genruntimeconfig.cache
+/Users/nihalkarim/Desktop/rit/fall22/igme-201/Karim_Final/MyStack/MyStack/obj/Debug/net7.0/ref/MyStack.dll

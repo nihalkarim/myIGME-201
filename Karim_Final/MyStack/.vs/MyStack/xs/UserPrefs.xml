@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{C152E13A-71D3-4A09-B67D-7220605FD2C6}|Default">
+  <MonoDevelop.Ide.ItemProperties.MyStack PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MyStack/Program.cs">
+    <Files>
+      <File FileName="MyStack/Program.cs" Line="26" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MyStack" expanded="True">
+            <Node name="MyStack" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
