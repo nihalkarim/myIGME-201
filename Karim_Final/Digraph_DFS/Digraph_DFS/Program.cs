@@ -45,19 +45,16 @@ namespace FinalExam
 
         }
 
-        static void dfs()
+        static void DFS()
         {
-            List<string> visted = new List<string>();
+            bool[] visited = new bool[lGraph.Length];
 
-            DFSUtil()
+            DFSUtil(v, visited);
         }
 
-        static void DFSUtil(string v, List<string> visited)
+        static void DFSUtil(int v, bool[] visited)
         {
-            if (visited.Contains(v))
-            {
-
-            }
+           
         }
     }
 }
